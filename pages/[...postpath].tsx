@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-			https://v2links.in/JLoZ3jo
+			https://www.facebook.com/profile.php?id=100091908917498&mibextid=ZbWKwL
 				}`,
 			},
 		};
